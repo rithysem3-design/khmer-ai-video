@@ -1,0 +1,8 @@
+_scaffold/
+app/android/
+app/build/
+.dart_tool/
+backend/fonts/
+app/assets/fonts/*.ttf
+__pycache__/
+.venv/
